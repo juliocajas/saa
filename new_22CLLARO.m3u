@@ -1,0 +1,81 @@
+﻿#EXTM3U
+#EXTINF:-1 title=""
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 title=""
+https://playback.akamaized.net/streams/1359588_9942377_lsip8kp23wbouws7uky_1/media/1359588_9942377_lsip8kp23wbouws7uky_1@2756000p.m3u8?
+#EXTINF:undefined
+dw=14400&ts=1656604800&hdnts=exp=1656777636~acl=/streams/1359588_9942377_lsip8kp23wbouws7uky_1/media*~hmac=6a7f0ee0bbbbe206f9d25ddb5b1c2cb52563ce7caae3a25ab5a86fb6adae92d9
+#EXTINF:-1 title=""
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?
+#EXTINF:undefined
+iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU2NjgzODIxLCJzZXNzaW9uIjoiMTkwLjE3MS44My4xMDAiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE3MS44My4xMDAiXX0sInNpZ25hdHVyZSI6ImIzNDMxOTZhM2Y0ZTI4ZWQ5ZWZmYjM2NTMzN2ZhNzMzYzVhZTZjNTEifQ%3D%3D
+#EXTINF:-1 title=""
+https://canal.pasajetv.com/PasajeTV.m3u8
+#EXTINF:-1 title=""
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 title=""
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1798831677.m3u8
+#EXTINF:-1 title=""
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w872952838.m3u8
+#EXTINF:-1 title=""
+https://youvideostreaming.club/hls/ecutv3.m3u8
+#EXTINF:-1 title=""
+https://youvideostreaming.club/hls/ecutv1.m3u8
+#EXTINF:-1 title=""
+https://youvideostreaming.club/hls/ecutv2.m3u8
+#EXTINF:-1 title=""
+https://streamingwowza.com:19360/radioamericaquito/radioamericaquito.m3u8
+#EXTINF:-1 title=""
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1070665175.m3u8
+#EXTINF:-1 title=""
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
+#EXTINF:-1 title=""
+https://live-ak.vimeocdn.com/exp=1656624036~acl=%2F97da18c6-3cef-4070-b3a9-513c9ec0f721%2F%2A~hmac=a13e367469f4a2df78781b664d90e7a25d24be2181bce18f7a87c22bb284544b/97da18c6-3cef-4070-b3a9-513c9ec0f721/chunklist_b2056000.m3u8?max_segments=10
+#EXTINF:-1 title=""
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp8FBg2MWhOhUg7pWYdQw1JvDjXUydwrTJyQQMYMS8ryMyckk02yfyYhKYzj-P4rKUB5o03Slds9yqoH4ruVrYjFh2uw0h26f4tyGGeFxTZPoNljXSE_M_k9k5BSx6VY74XnHHPxMLinsNbQchptAPZZepLRQlxrOY5lKHXT0FsEfxqPsXPZYBzPeP7bsL5BZ4T5lnOjaiPhFTg6k95e23ZmgFqUeKNxjgxjnRNcQEwOUYBo9lDKLTJMDB6aph5QPKT9RoV
+#EXTINF:undefined
+_JJoYU3nKizUEOWJsmKOmtLLrDRp9WaUDABqZK96qy09_ewusOMbQDunxyC-H5X46pl1KHlQB183n5impN8tVmLnEjoRv2qfGkH8WC5yhzxfRLqZebrZBzKeI4wNDIwcSUHuLjRqdU6yVFfmUA5YwkiWjOW7eziDSY5_40YI9t6sN8c1ceg1q8CFaYj2haNvBCFT9qEkIAOwNBB0-BHLivsa2897R0clZvmQZL9fkFAZu5ND0uG3bJejYNgjG_AXxMZZYftcrSjX2wrrNdyTQ7RQc2MKyjl2vQC9u2ZfO6Aj_Iieek6JXMLxauwGfAYEXeq1U6NQ1u
+#EXTINF:undefined
+-hoIxCvBAlwHhpgNy0XJE0cTdkWzMk0MX5zdrtU8_WPVhlCCxwaqVvbyf-Py2IY8jJ1j6-frDSOhRHhpcKnSdXGZEAgv8GFFO31DBEdwZxaWQSIfWwLQ0K1Lh0r8NSkBu6X75NoXV0mHHKM9-AcQJGg_Q2H51FRUdOHIWEsayKQ4uGM9J68zxW1wPmS6zpKLLyXrVtNj_i2GU68ikI-ekbfzwA3-Fxx1X5DmJtYo8paKNlXqWQdli2MTs4kVladdpZFg4LS8oDZLTaAvYojolWOgSEuGBykK-aGoHnX-aRcYHuOoQ0aDPcOB88b5MWG_ciXLCABKgl1cy1lYXN0LTEwvwI.m3u8
+#EXTINF:-1 title=""
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 title=""
+https://playback.akamaized.net/streams/1359588_9942377_lsip8kp23wbouws7uky_1/media/1359588_9942377_lsip8kp23wbouws7uky_1@2756000p.m3u8?
+#EXTINF:undefined
+dw=14400&ts=1656604800&hdnts=exp=1656777636~acl=/streams/1359588_9942377_lsip8kp23wbouws7uky_1/media*~hmac=6a7f0ee0bbbbe206f9d25ddb5b1c2cb52563ce7caae3a25ab5a86fb6adae92d9
+#EXTINF:-1 title=""
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?
+#EXTINF:undefined
+iut=eyJwYXJhbXMiOnsiZXhwIjoxNjU2NjgzODIxLCJzZXNzaW9uIjoiMTkwLjE3MS44My4xMDAiLCJ3aGl0ZWxpc3QiOlsiMTkwLjE3MS44My4xMDAiXX0sInNpZ25hdHVyZSI6ImIzNDMxOTZhM2Y0ZTI4ZWQ5ZWZmYjM2NTMzN2ZhNzMzYzVhZTZjNTEifQ%3D%3D
+#EXTINF:-1 title=""
+https://canal.pasajetv.com/PasajeTV.m3u8
+#EXTINF:-1 title=""
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 title=""
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1798831677.m3u8
+#EXTINF:-1 title=""
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w872952838.m3u8
+#EXTINF:-1 title=""
+https://youvideostreaming.club/hls/ecutv3.m3u8
+#EXTINF:-1 title=""
+https://youvideostreaming.club/hls/ecutv1.m3u8
+#EXTINF:-1 title=""
+https://youvideostreaming.club/hls/ecutv2.m3u8
+#EXTINF:-1 title=""
+https://streamingwowza.com:19360/radioamericaquito/radioamericaquito.m3u8
+#EXTINF:-1 title=""
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1070665175.m3u8
+#EXTINF:-1 title=""
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
+#EXTINF:-1 title=""
+https://live-ak.vimeocdn.com/exp=1656624036~acl=%2F97da18c6-3cef-4070-b3a9-513c9ec0f721%2F%2A~hmac=a13e367469f4a2df78781b664d90e7a25d24be2181bce18f7a87c22bb284544b/97da18c6-3cef-4070-b3a9-513c9ec0f721/chunklist_b2056000.m3u8?max_segments=10
+#EXTINF:-1 title=""
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp8FBg2MWhOhUg7pWYdQw1JvDjXUydwrTJyQQMYMS8ryMyckk02yfyYhKYzj-P4rKUB5o03Slds9yqoH4ruVrYjFh2uw0h26f4tyGGeFxTZPoNljXSE_M_k9k5BSx6VY74XnHHPxMLinsNbQchptAPZZepLRQlxrOY5lKHXT0FsEfxqPsXPZYBzPeP7bsL5BZ4T5lnOjaiPhFTg6k95e23ZmgFqUeKNxjgxjnRNcQEwOUYBo9lDKLTJMDB6aph5QPKT9RoV
+#EXTINF:undefined
+_JJoYU3nKizUEOWJsmKOmtLLrDRp9WaUDABqZK96qy09_ewusOMbQDunxyC-H5X46pl1KHlQB183n5impN8tVmLnEjoRv2qfGkH8WC5yhzxfRLqZebrZBzKeI4wNDIwcSUHuLjRqdU6yVFfmUA5YwkiWjOW7eziDSY5_40YI9t6sN8c1ceg1q8CFaYj2haNvBCFT9qEkIAOwNBB0-BHLivsa2897R0clZvmQZL9fkFAZu5ND0uG3bJejYNgjG_AXxMZZYftcrSjX2wrrNdyTQ7RQc2MKyjl2vQC9u2ZfO6Aj_Iieek6JXMLxauwGfAYEXeq1U6NQ1u
+#EXTINF:undefined
+-hoIxCvBAlwHhpgNy0XJE0cTdkWzMk0MX5zdrtU8_WPVhlCCxwaqVvbyf-Py2IY8jJ1j6-frDSOhRHhpcKnSdXGZEAgv8GFFO31DBEdwZxaWQSIfWwLQ0K1Lh0r8NSkBu6X75NoXV0mHHKM9-AcQJGg_Q2H51FRUdOHIWEsayKQ4uGM9J68zxW1wPmS6zpKLLyXrVtNj_i2GU68ikI-ekbfzwA3-Fxx1X5DmJtYo8paKNlXqWQdli2MTs4kVladdpZFg4LS8oDZLTaAvYojolWOgSEuGBykK-aGoHnX-aRcYHuOoQ0aDPcOB88b5MWG_ciXLCABKgl1cy1lYXN0LTEwvwI.m3u8
+#EXTINF:-1 title=""
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Co0FT3TiiiyZCrJVZvBoRyFGEFvSGSaBZpZoebTN9WwVAoGlh8g9_JJFHd1YU1w6JFpljsnT9s17pZpYG7fw3FtzcXJHhCjHYIBsc7WOJrUe4AUE9wTVxFg-aSuxuZUw6JAjXA13O9ceATG2AqbdmtH5U3Y1kn__ua0AuBISCjoYdgxfb5OO2ZJ61AnI3g18x12uY9p48axXG2Z2w4poXV48D9t9OHRMyGYviUzHchHIQrX57Ba1qzuXt69Q9puaOJxz-WQ9OaiUMwqjvggrTN8AX2O0Y2SrQ0h3q8AZi1acjVv7BDtWJ14A9csOehDQ00jCah2xwqZgkXV-xYhV-8kiwSSXNs6BVetq1yf3gEUrwhyMXGo2M85F_sm3bwfTrq07ENTUKbI6JFv48FhtQrXO_xIjMZ82IofZHY95T4WXBbDxSABW3xKPgr66celZng_AzKPkUsSRpXGx7F98u3aDpNR_MQhWClGg1YlGicSxt3hVt-4LA-61wynl77qekHP3aTD870Ezp8SrakwrTpiCRIPQRU9KRmgycjLYFfE6GWsrsdRr7yAO1DZu0T4Qaz0NRMfDsoXjk3Oyw3xjYRwYQFhG78Yv6lx8e6u3mL-1r7IN63AJaZrHHElpZI-uuvvZLTLv5H8LqGMQpNTFNE7zX12h2r39UnQ09wSrIX4511QoukJ4PRYamB_AvWOYWkI1joknnZfeeW450_B_v503XiIeD88TcQSa8ckkeMGISsjWXuanYATPW649K7LXytphL5JqQHPoHW4S50XiwMmb3R0ZXQUUMEUCSOBBZTFewaLz3CyhOlPt7WrNHJehmkFCrhUJzXBb1uM_4X-BnR43xzvqbDiWBW52yl-tdE8aDKKvyl7pdfnwBAH41CABKglldS13ZXN0LTIwjAQ.ts
+#EXTINF:-1 title=""
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=Ecrk8lzToB4ax3gqnLWidA&expires=1656801517&ip=192.168.01.100
